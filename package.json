@@ -1,0 +1,20 @@
+{
+  "name": "automation-app",
+  "version": "1.0.0",
+  "description": "Shortcuts for windows: An automation app made with electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ellicode",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.0"
+  },
+  "dependencies": {
+    "blockly": "^10.3.1",
+    "bootstrap-icons": "^1.11.3",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
